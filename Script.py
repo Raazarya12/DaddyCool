@@ -6,16 +6,15 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/jk_dev'>JK DEV</a>
+✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/Titanoboa_team'>Titanoboa Team</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
-✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://app.koyeb.com/'>Anything</a>
+✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='h'>Anything</a>
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.7.1 [ Sᴛᴀʙʟᴇ ]</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ: ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-Sᴏᴜʀᴄᴇ Cᴏᴅᴇ: <a href=https://github.com/Jkdeveloper01/JK-FILTER-BOT>𝑱𝑲-𝑭𝑰𝑳𝑻𝑬𝑹-𝑩𝑶𝑻</a>
-Dᴇᴠᴇʟᴏᴘᴇʀ: <a href="https://t.me/jk_dev">JK DEV</a></b>"""
+Sᴏᴜʀᴄᴇ Cᴏᴅᴇ: <a href=https://github.com/Jkdeveloper01/JK-FILTER-BOT>𝑱𝑲-𝑭𝑰𝑳𝑻𝑬𝑹-𝑩𝑶𝑻</a>"""
     
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -129,8 +128,8 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : JK DEVELOPER
-• ᴜꜱᴇʀɴᴀᴍᴇ : @jk_dev
+• ꜰᴜʟʟ ɴᴀᴍᴇ : TITANOBOA TEAM
+• ᴜꜱᴇʀɴᴀᴍᴇ : @Titanoboa_team
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/jk_dev'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     NORSLTS = """
@@ -142,7 +141,7 @@ Nᴀᴍᴇ - {}"""
 ★ Message <code>{}</code>"""
 
     CAPTION = """
-<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b><a href="https://t.me/DigitalSearchMovie">{file_name}</a><b>
+<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b><a href="https://t.me/Latest_movies_freeOnNet">{file_name}</a><b>
 </b>"""
 
     IMDB_TEMPLATE_TXT = """
@@ -192,4 +191,4 @@ $$ |  $$ |$$ |\$$\        $$ |  $$ |$$ |        \$$$  /
 \$$$$$$  |$$ | \$$\       $$$$$$$  |$$$$$$$$\    \$  /   
  \______/ \__|  \__|      \_______/ \________|    \_/    
             
-             BOT STARTED SUCCESSFULLY 💥"""                                                                                  
+BOT STARTED SUCCESSFULLY 💥"""                                                                                  
